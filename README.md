@@ -129,6 +129,15 @@
 > 데이터 분석가의 역할은 "분석 결과를 보고하는 사람"이 아니라,
 > "데이터로 더 나은 의사결정을 가능하게 하는 사람"이라는 것을 직접 경험했습니다.
 
+## 🎨 Interactive Dashboard
+
+🔗 **[Live Demo →](https://yejin-sohn-library-dashboard.streamlit.app)**
+
+본 프로젝트의 분석 결과를 Streamlit으로 인터랙티브 대시보드로 구현하여 배포했습니다.
+8개 페이지에서 좌석 점유율 시뮬레이션, 위치 요인 비교, 정책 제안 등을 직접 확인할 수 있습니다.
+
+![Dashboard Preview](images/01_title.png)
+
 ## 🎓 배운 점
 
 - **데이터 결합의 힘**: 실측만으로는 "왜?"를 설명할 수 없음. 설문과 결합해야 행동의 원인 규명 가능
