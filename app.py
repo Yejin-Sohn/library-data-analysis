@@ -416,7 +416,7 @@ elif page == "👤 About":
     - **팀**: 5팀 (6명)
     - **기간**: 2026년 3월 ~ 6월 (3개월)
 
-    ## 👤 Sohn Yejin (본인 정보)
+    ## 👤 Sohn Yejin
 
     한국외국어대학교 사범대학 독일어교육 + AI 융합소프트웨어 이중전공
 
@@ -441,4 +441,4 @@ elif page == "👤 About":
 # 푸터
 # =====================================================
 st.markdown("---")
-st.caption("Made with ❤️ using Streamlit | © 2026 Sohn Yejin")
+st.caption("Made with using Streamlit | © 2026 Sohn Yejin")
