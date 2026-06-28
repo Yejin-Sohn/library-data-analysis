@@ -266,7 +266,7 @@
 
 ## 9. 후속 작업
 
-- ✅ **도서관 측에 분석 결과 및 정책 제안 직접 전달** (수업 종료 후)
+- ✅ **도서관 측에 분석 결과 및 정책 제안 전달** 
 - ✅ **Streamlit 인터랙티브 대시보드 개발 및 배포** (개인 디벨롭)
   - 🔗 [Live Demo](https://yejin-sohn-library-dashboard.streamlit.app)
 
